@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SayHiHelena
-- 👀 I’m interested in UX, front-end, and guess what? Stage and theatrical design!💞️
-- 🌱 I’m currently studying a Master of Interaction Design and Electronic Arts
+- 🌱 I’m currently studying a Master of Interaction Design and Electronic Arts @ USyd.
+- 👀 I’m interested in UX and UI, currently exploring the whole new realm of front-end.
+- 💞️ It may sounds not so related, but I LOVE spatial and theatrical design as well!
 - 📫 Feel free to contact me via Email: cuiziyuan99@gmail.com
 
 <!---
